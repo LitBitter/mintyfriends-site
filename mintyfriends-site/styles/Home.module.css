@@ -1,0 +1,34 @@
+
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #ffffcc;
+}
+
+.title {
+  color: #228B22;
+  font-size: 4rem;
+}
+
+.description {
+  color: #555;
+  font-size: 1.5rem;
+}
+
+.mintButton {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  background-color: #f0e68c;
+  color: #228B22;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
